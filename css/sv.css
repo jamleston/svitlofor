@@ -1,0 +1,40 @@
+.s {
+	width: 150px;
+	height: 450px;
+	background: white;
+	border: 1px solid black;
+	position: fixed;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}
+.red {
+	width: 90px;
+	height: 90px;
+	background: #FF0000;
+	border-radius: 50px;
+	border: 1px solid black;
+	position: absolute;
+	left: 30px;
+	top: 10%;
+}
+.yellow {
+	width: 90px;
+	height: 90px;
+	background: #FFFF00;
+	border-radius: 50px;
+	border: 1px solid black;
+	position: absolute;
+	left: 30px;
+	top: 40%;
+}
+.green {
+	width: 90px;
+	height: 90px;
+	background: #32CD32;
+	border-radius: 50px;
+	border: 1px solid black;
+	position: absolute;
+	left: 30px;
+	top: 70%;
+}
